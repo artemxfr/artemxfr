@@ -1,4 +1,0 @@
-- 👋 Hi, I’m @artemxfr
-- 👀 I’m interested in Solidity and Blockchain
-- 💞️ I’m looking to collaborate on blockchain projects.
-- 📫 How to reach me: <a href="https://t.me/jc_maison">telegram</a>
